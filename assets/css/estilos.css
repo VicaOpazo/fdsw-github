@@ -1,9 +1,13 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+.menu img{
+  width: 150px;
+  height: 40px;
+  object-fit: cover;
+}
 
 /* Hero Section */
-
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
